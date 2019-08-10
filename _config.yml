@@ -1,11 +1,11 @@
 # Site settings
-author: Jeffrey Hinkle
-title: 
+author: Jeffrey "Cheffrey" Hinkle
+title: Recipes to Snippets
 header-img: img/home-bg.png
 email: cheffreyh@gmail.com
-copyright_name: Jeffrey Hinkle
+copyright_name: Jeffrey "Cheffrey" Hinkle
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Trading in the Cutting Board for a Keyboard
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Cheffrey2000
