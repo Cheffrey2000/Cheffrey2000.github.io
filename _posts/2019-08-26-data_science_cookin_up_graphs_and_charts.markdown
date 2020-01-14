@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "Data Science: Cookin' Up Graphs and Charts"
-date:       2019-08-27 02:50:45 +0000
+date:       2019-08-26 22:50:46 -0400
 permalink:  data_science_cookin_up_graphs_and_charts
 ---
 
+[Read this story on Medium.com](https://medium.com/@cheffrey2000/data-science-cookin-up-graphs-and-charts-1f859246c1b7?source=friends_link&sk=58dcee3c828173b0678ff788743a1a6f)
 ![](![](https://imgur.com/dKTvSyR))
 I find the correlation between being a professional chef (my former career), and a data scientist to fall in line with one another. Each one follows a similar process; take components from a raw state of disarray to a beautiful end result with a well-designed presentation and a final result that is interpreted by the customer. A chef carefully selects ingredients, (meat, produce, herbs, spices), cleans and sanitizes them, slices, dices and cuts them all so each may go through the chosen process of cooking, chilling, or mixing as they are next added to the final presentation which is carefully assembled with the customer's palate in mind.
 
